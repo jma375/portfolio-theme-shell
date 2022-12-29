@@ -78,8 +78,8 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["About me", "/content/aboutme.md"],
-    ["CV", "content/resume.md"],
+    ["About me", "../content/aboutme.md"],
+    ["CV", "../resume.md"],
     ["LinkedIn", "https://www.linkedin.com/in/jamesalfano751b79151/"],
     ["GitHub", "https://github.com/jma375"],
   ]
