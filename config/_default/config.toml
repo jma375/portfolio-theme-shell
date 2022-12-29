@@ -79,7 +79,7 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["About me", "/aboutme.md"],
-    ["CV", "/content/resume.md"],
+    ["CV", "/resume.md"],
     ["LinkedIn", "https://www.linkedin.com/in/jamesalfano751b79151/"],
     ["GitHub", "https://github.com/jma375"],
   ]
