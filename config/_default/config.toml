@@ -17,7 +17,7 @@ ignoreErrors = ["error-remote-getjson"]
 # Additions stop here
     
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
-  description = "Jane Doe's Portfolio!"
+  description = "James Alfano's Portfolio!"
   [Params.Terminal]
   # Note: color scheme
   # Note: You can choose between
@@ -36,7 +36,7 @@ ignoreErrors = ["error-remote-getjson"]
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "jane"
+  userName = "James"
   pcName = "laptop"
   workDir = "mydir"
   profile = "profile.txt"
@@ -63,8 +63,9 @@ ignoreErrors = ["error-remote-getjson"]
   # activityDelay = 5 : deprecated
 
   description = """
-  Hi I am Jane Doe!
-  Nice to meet you!
+  Hi I am James Alfano!
+  Welcome to my website!
+  It is nice to meet you!
   
   """
 
@@ -77,11 +78,10 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["C/C++", "https://www.example.com/"],
-    ["Python", "https://www.example.com/"],
-    ["Go", "https://golang.org/"],
-    ["James", "/aboutme.md"],
-    ["Docker", "/post/some-activity.md"],
+    ["About me", "/aboutme.md"],
+    ["CV", "/resume.md"],
+    ["LinkedIn", "https://www.linkedin.com/in/jamesalfano751b79151/"],
+    ["GitHub", "https://github.com/jma375"],
   ]
 
 [module]
